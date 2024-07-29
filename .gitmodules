@@ -1,0 +1,6 @@
+[submodule "projetoteste"]
+	path = projetoteste
+	url = https://github.com/leticia-lourinho/projetoteste.git
+[submodule "test-again-aaa"]
+	path = test-again-aaa
+	url = https://github.com/leticia-lourinho/test-again-aaa.git
